@@ -4,6 +4,7 @@ import UsersTable from "../components/UsersTable";
 const HomePage = () => {
   return (
     <div>
+      <UsersTable />
     </div>
   );
 };
